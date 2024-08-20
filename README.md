@@ -3,6 +3,10 @@
 
 This is the landing page for the Stockify stock market simulator project. The landing page is built using HTML, JavaScript, and Tailwind CSS, showcasing the key features and design of the platform.
 
+# Live Demo
+Check out the live demo of the landing page here.
+https://stockify123.netlify.app/
+
 ## Tech Stack
 
 - **Frontend:** HTML, JavaScript, Tailwind CSS
